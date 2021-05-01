@@ -1,3 +1,3 @@
 # Pneumonia_Detection
 
-Pneumonia Detection using Convolutional Neural Network (CNN)
+Pneumonia Detection on X-rays - TensorFlow Convolutional Neural Network (CNN)
